@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983388063329",
+    "project_id": "dpr-project-6636b",
+    "storage_bucket": "dpr-project-6636b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983388063329:android:27705c4d51bb2c650e4c20",
+        "android_client_info": {
+          "package_name": "com.dpr.dpr_patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983388063329-mchpot6o2310p29rdfomffva8v3je732.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf26Oxt-qhLjByXZWdDiU2mMhOeZVfqJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983388063329-mchpot6o2310p29rdfomffva8v3je732.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
